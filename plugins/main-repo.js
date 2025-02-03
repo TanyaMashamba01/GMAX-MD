@@ -30,18 +30,17 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*Hello There GMAX W.A BOT User! 😄👋* 
+        const formattedInfo = `*Hello There Joshuamambo1 W.A BOT User! 😄👋* 
 
 > Simple, Icy, Cold  & Rich Loaded Bot With Amazing Features, Gmax WhatsApp Bot. ❄️
 
-*Thanks for using 𝙶𝙼𝙰𝚇 𝙼𝙳🌹🫶* 
+*Thanks for using Joshuamambo1 𝙼𝙳🌹🫶* 
 
 > Don't forget to star & fork the repo🌟🍴
 
-https://github.com/Gmaxtech2024/GMAX-MD
 ──────────────────
 ${readMore}
-\`BOT NAME:\`❄️
+\`BOT NAME:\`❤️‍🔥
 > ${repoData.name}
 
 \`OWNER NAME:\`👨‍💻
@@ -56,11 +55,11 @@ ${readMore}
 \`DESCRIPTION:\`📃
 > ${repoData.description || 'No description'}\n
 ──────────────────
-\n> *© ροωєяє∂ ϐγ мя ɠɱαx* 🎐`;
+\n> *© ροωєяє∂ ϐγ Joshuamambo1* 🎐`;
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://i.ibb.co/hL71dDp/mrfrankofc.jpg` },
+            image: { url: `https://b.top4top.io/p_3291qwfqu0.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
