@@ -197,7 +197,7 @@ const config = require('../config');
 
 cmd({
     pattern: "owner",
-    react: "✅", 
+    react: "❤️‍🔥🇿🇼", 
     desc: "Get owner number",
     category: "main",
     filename: __filename
@@ -223,7 +223,7 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://i.ibb.co/bm4vqRH/mrfrankofc.jpg' }, // Image URL from your request
+            image: { url: 'https://b.top4top.io/p_3291qwfqu0.jpg' }, // Image URL from your request
             caption: `╭━━〔 *GMAX MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
@@ -232,7 +232,7 @@ async (conn, mek, m, { from }) => {
 ┃◈┃• *Version*: 2.0.0
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʀ ɢᴍᴀx`, // Display the owner's details
+> © ᴘJoshuamambo1 NetKingx`, // Display the owner's details
             contextInfo: {
                 mentionedJid: [`${ownerNumber.replace('+', '')}@s.whatsapp.net`], 
                 forwardingScore: 999,
@@ -247,7 +247,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/ixhqwc.mp3' }, // Audio URL
+            audio: { url: 'https://files.catbox.moe/l2nh4v.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
