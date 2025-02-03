@@ -76,7 +76,7 @@ ${readMore}
 
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/6780pv.mp3' },
+            audio: { url: 'https://files.catbox.moe/l2nh4v.mp3' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
