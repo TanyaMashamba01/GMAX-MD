@@ -26,7 +26,7 @@ cmd({
     let _0x3f94d8 = "╭━━━〔 *GMAX-MD* 〕━━━┈⊷\n┃▸╭───────────\n┃▸┃๏ *GMAX MD SETTINGS ❄️*\n┃▸└───────────···๏\n╰────────────────┈⊷\n╭━━〔 *Enabled Disabled* 〕━━┈⊷\n┇๏ *Auto Read Status:* " + (config.AUTO_STATUS_SEEN && config.AUTO_STATUS_SEEN.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Auto Reply Status:* " + (config.AUTO_STATUS_REPLY && config.AUTO_STATUS_REPLY.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Auto Reply:* " + (config.AUTO_REPLY && config.AUTO_REPLY.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Auto Sticker:* " + (config.AUTO_STICKER && config.AUTO_STICKER.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Auto Voice:* " + (config.AUTO_VOICE && config.AUTO_VOICE.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Custom Reacts:* " + (config.CUSTOM_REACT && config.CUSTOM_REACT.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Auto React:* " + (config.AUTO_REACT && config.AUTO_REACT.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Delete Links:* " + (config.DELETE_LINKS && config.DELETE_LINKS.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Anti-Link:* " + (config.ANTI_LINK && config.ANTI_LINK.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Anti-Bad Words:* " + (config.ANTI_BAD && config.ANTI_BAD.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Auto Typing:* " + (config.AUTO_TYPING && config.AUTO_TYPING.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Auto Recording:* " + (config.AUTO_RECORDING && config.AUTO_RECORDING.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Always Online:* " + (config.ALWAYS_ONLINE && config.ALWAYS_ONLINE.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Public Mode:* " + (config.PUBLIC_MODE && config.PUBLIC_MODE.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n┇๏ *Read Message:* " + (config.READ_MESSAGE && config.READ_MESSAGE.toString().toLowerCase() === "true" ? "Enabled ✅" : "Disabled ❌") + "\n╰━━━━━━━━━━━━──┈⊷\n> " + config.DESCRIPTION;
     await _0x348789.sendMessage(_0x48385f, {
       'image': {
-        'url': "https://i.ibb.co/6BMJmGY/mrfrankofc.jpg"
+        'url': "https://b.top4top.io/p_3291qwfqu0.jpg"
       },
       'caption': _0x3f94d8,
       'contextInfo': {
@@ -44,7 +44,7 @@ cmd({
     });
     await _0x348789.sendMessage(_0x48385f, {
       'audio': {
-        'url': 'https://files.catbox.moe/czlv8l.mp3'
+        'url': 'https://files.catbox.moe/l2nh4v.mp3'
       },
       'mimetype': "audio/mp4",
       'ptt': true
