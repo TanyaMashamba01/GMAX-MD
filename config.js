@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY GMAX🤍*",
 // set the auto reply massage on status reply  
-PREFIX: process.env.PREFIX || ",",
+PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "GMAX-MD",
 // add bot namw here for menu
@@ -25,13 +25,13 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255753853473",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "263716729222",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Mr Gmax",
+OWNER_NAME: process.env.OWNER_NAME || "Mr Joshuamambo1x",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ɢᴍᴀx*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tmtn0f.jpeg",
 // add img for alive msg
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -55,7 +55,7 @@ PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
-DEV: process.env.DEV || "255753853473",
+DEV: process.env.DEV || "263716729222",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
