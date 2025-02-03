@@ -15,7 +15,7 @@ cmd({
   'alias': ['status', "runtime", "uptime"],
   'desc': "Check uptime and system status",
   'category': "main",
-  'react': '📟',
+  'react': '❤️‍🔥🇿🇼',
   'filename': __filename
 }, async (_0x41fdca, _0x4452d9, _0x4c213f, {
   from: _0x24d99b,
@@ -45,7 +45,7 @@ cmd({
     const _0x54a5ab = "╭━━〔 *GMAX MD* 〕━━┈⊷\n\n┃◈╭─────────────·๏\n\n┃◈┃• *⏳Uptime*:  " + runtime(process.uptime()) + " \n\n┃◈┃• *📟 Ram usage*: " + (process.memoryUsage().heapUsed / 0x400 / 0x400).toFixed(0x2) + "MB / " + (os.totalmem() / 0x400 / 0x400).toFixed(0x2) + "MB\n\n┃◈┃• *⚙️ HostName*: " + os.hostname() + "\n\n┃◈┃• *👨‍💻 Owner*: Sir Gmax\n\n┃◈┃• *📂 Version*: 1.0.3\n\n┃◈└───────────┈⊷\n\n╰──────────────┈⊷\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴍᴀx ᴍᴅ";
     await _0x41fdca.sendMessage(_0x24d99b, {
       'image': {
-        'url': "https://i.ibb.co/6BMJmGY/mrfrankofc.jpg"
+        'url': "https://b.top4top.io/p_3291qwfqu0.jpg"
       },
       'caption': _0x54a5ab,
       'contextInfo': {
