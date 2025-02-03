@@ -6,7 +6,7 @@ const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, 
 cmd({
     pattern: "ping2",
     react: "🤖",
-    alias: ["speed"],
+    alias: ["Joshuamambo speed"],
     desc: "Check bot\'s ping",
     category: "main",
     use: '.ping2',
@@ -28,7 +28,7 @@ l(e)
 cmd({
     pattern: "ping",
     react: "♻️",
-    alias: ["speed"],
+    alias: ["Joshuamambo1 speed"],
     desc: "Check bot\'s ping",
     category: "main",
     use: '.ping',
@@ -40,7 +40,7 @@ const startTime = Date.now()
         const message = await conn.sendMessage(from, { text: '*_🪄Pinging..._*' })
         const endTime = Date.now()
         const ping = endTime - startTime
-        await conn.sendMessage(from, { text: `*♻️ Speed... : ${ping}ms*`}, { quoted: message })
+        await conn.sendMessage(from, { text: `*♻️ JoshuamamboSpeed... : ${ping}ms*`}, { quoted: message })
     } catch (e) {
         console.log(e)
         reply(`${e}`)
