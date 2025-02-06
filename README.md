@@ -86,7 +86,7 @@ You will need a session ID to run the GMAX-MD. Click the button below to obtain 
 
 > **4️⃣Pair Code (Session ID)**
 
-<a href='https://63ce3e16-6ed5-4cf0-9cad-db8a0039c80b-00-bjx54pp8bffs.kirk.replit.dev/
+<a href='https://malvin-md-beta-pair2.onrender.com
 ' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
